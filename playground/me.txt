@@ -1,0 +1,5 @@
+{{#user}}
+Name: Tanay Jagnani
+Skills: HTML, CSS, Javascript, Flutter, Java, React.js, Node.js, Express.js, Typescript
+Email: tanayjagnani@gmail.com
+{{/user}}
